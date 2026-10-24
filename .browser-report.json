@@ -1,0 +1,12 @@
+{
+  "failures": [
+    {
+      "page": "/uncategorized/x/",
+      "bad": [
+        "404 http://127.0.0.1:56849/doencas-e-tratamentos/irritabilidade-dificuldades-emocionais-e-regulacao-afetiva/embed/#?secret=ygwr19L86l#?secret=aw0l79lfyX"
+      ]
+    }
+  ],
+  "liveHits": [],
+  "brokenImages": []
+}

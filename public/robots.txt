@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drlucasalcantarapsiquiatra.com.br/sitemap.xml
